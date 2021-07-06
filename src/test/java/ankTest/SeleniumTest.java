@@ -20,5 +20,6 @@ public class SeleniumTest
 	public void web()
 	{
 		System.out.println("web Automation using Protactor");
+		System.out.println("Protactor is not useful as selenium");
 	}
 }

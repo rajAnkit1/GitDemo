@@ -9,6 +9,7 @@ public class ApiTest {
 	{
 		System.out.println("soap api automation");
 		System.out.println("api automation through xml");
+		System.out.println("automation using rest and soap");
 		
 	}
 	
@@ -18,6 +19,7 @@ public class ApiTest {
 		System.out.println("Restfull api automation");
 		System.out.println("Api automation through postman");
 		System.out.println("reporting bug using jira");
+		System.out.println("rest api failind due to bug in application");
 	}
 	
 	public void xml()

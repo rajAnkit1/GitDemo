@@ -19,5 +19,12 @@ public class ApiTest {
 		System.out.println("Api automation through postman");
 		System.out.println("reporting bug using jira");
 	}
+	
+	public void xml()
+	{
+		System.out.println("postman scripting using Xml");
+		System.out.println("xml automation scripting using java");
+	}
+	
 
 }

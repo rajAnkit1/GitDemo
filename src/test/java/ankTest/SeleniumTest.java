@@ -16,4 +16,9 @@ public class SeleniumTest
 	{
 		System.out.println("locating elements");
 	}	
+	
+	public void web()
+	{
+		System.out.println("web Automation using Protactor");
+	}
 }

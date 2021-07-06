@@ -16,5 +16,10 @@ public class AppiumTest {
 	{
 		System.out.println("ios Automation");
 	}
+	
+	public void windows()
+	{
+		System.out.println("windows Automation");
+	}
 
 }
